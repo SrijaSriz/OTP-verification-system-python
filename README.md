@@ -55,4 +55,14 @@ python main.py
 🚫 Non-numeric or malformed OTPs
 
 
+🔐 Note on Security
+While email sending is simulated, this system is built with security in mind. No real emails are sent, and environment variables are used for future extension to SMTP-based OTP systems.
 
+👨‍💻 Author
+Developed by SRIJA MANDAVILLI
+Let me know if you’d like to:
+- Add a real SMTP version for email
+- Include a sample `.env` file or `requirements.txt`
+- Customize for GUI or web app extensions
+
+I can generate those too!
