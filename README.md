@@ -10,6 +10,8 @@ A secure, command-line-based OTP (One-Time Password) verification system built i
 - ⏳ OTP expires after configurable time (default: 3 minutes)
 - 🔁 Allows OTP regeneration (max 3 times)
 - ⌛ Real-time countdown timer using multithreading
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc6d54e1-17f5-437a-89ea-e7530cec4962" />
+
 - 📧 Validates email format before sending OTP
 - 🚫 Handles invalid input and expired OTPs gracefully
 - 💬 Interactive CLI-based user experience
